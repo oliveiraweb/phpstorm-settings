@@ -8,17 +8,33 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="DatabaseView.Refresh" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="FindPrevious" />
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
 </keymap>
