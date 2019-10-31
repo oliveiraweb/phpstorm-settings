@@ -29,6 +29,9 @@
   </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Replace" />
   <action id="Rerun" />
   <action id="SelectIn">
