@@ -89,5 +89,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="pusher" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.pusher.com_5.0_pusher.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.pusher.com_5.0_pusher.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
